@@ -55,6 +55,13 @@
 			"value": "badragon20100413@163.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1783777536274",
+			"type": "link",
+			"value": "https://2b-creator.github.io/LKM-official-website/",
+			"label": "理科迷",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
