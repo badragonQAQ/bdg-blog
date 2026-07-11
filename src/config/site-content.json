@@ -21,26 +21,22 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
-		},
-		{
-			"id": "1c7b726fe720679b",
-			"url": "/images/art/1c7b726fe720679b.jpg"
+			"id": "662ccbb998bc026d",
+			"url": "/images/art/662ccbb998bc026d.gif"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "662ccbb998bc026d",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "4d8b6ef3c6ae788d",
+			"url": "/images/background/4d8b6ef3c6ae788d.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "4d8b6ef3c6ae788d",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -64,7 +60,7 @@
 			"order": 3
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
